@@ -1,0 +1,33 @@
+body {
+    background-color: #bfdbf7;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+
+.placeholders {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    max-width: 200px;
+ 
+}
+
+.click {
+    display: flex;
+    margin:auto;
+}
+
+img{ width: 350px;
+    height: 425px;}
+
+li{ color: red;}
+
+input{ margin-bottom:5px;}
+
+.result{text-align: center;
+margin-top: 30px;}
